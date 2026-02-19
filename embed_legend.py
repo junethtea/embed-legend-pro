@@ -12,10 +12,10 @@
 
 """
 LICENSE AGREEMENT:
-This software is provided free and open-source. Usage is permitted for personal 
-and professional purposes. Modification, rebranding, or redistribution of the 
-raw source files without proper attribution is strictly prohibited. 
-(Please share the official repository link, not the raw .ZIP files).
+This program is free software; you can redistribute it and/or modify it under 
+the terms of the GNU General Public License as published by the Free Software Foundation.
+To support the developer and ensure you have the latest stable version, 
+please download directly from the Official QGIS Repository.
 """
 
 import os
@@ -547,7 +547,7 @@ class EmbedLegendPlugin:
         msg.setIcon(QMessageBox.Information)
         msg.setTextFormat(Qt.RichText)
         
-        # HTML Styling for Global Audience + Bilingual Warning
+        # HTML Styling for Global Audience + Bilingual Support
         text = (
             "<h3>Embed Legend Pro</h3>"
             "<b>Version:</b> 6.9.0<br>"
@@ -561,14 +561,14 @@ class EmbedLegendPlugin:
             
             "<b>☕ Support & Donate:</b><br>"
             "If this tool saves you hours of work, consider buying me a coffee!<br>"
-            "• <b>Global:</b> Buy Me a Coffee (buymeacoffee.com/juneth) / PayPal (paypal.me/junethtea)<br>"
+            "• <b>Global:</b> Buy Me a Coffee / PayPal (junethtea)<br>"
             "• <b>Indonesia:</b> OVO / GoPay (081510027058)<br><br>"
             
-            "<div style='background-color: #ffeaa7; padding: 10px; border-radius: 5px; text-align: center; color: #d63031;'>"
-            "<b>⚠️ WARNING / PERINGATAN ⚠️</b><br>"
+            "<div style='background-color: #e8f4f8; padding: 10px; border-radius: 5px; text-align: center; color: #2d98da; border: 1px solid #bdc3c7;'>"
+            "<b>💡 PRO TIP FOR SHARING 💡</b><br>"
             "<span style='font-size: 11px;'>"
-            "DO NOT distribute this plugin as a raw .ZIP file. Please share the official repository link. Be a respectful professional!<br>"
-            "<i>DILARANG KERAS berbagi file mentah .ZIP plugin ini. Jadilah orang yang beradab dan bagikan link resminya saja 😉</i>"
+            "To ensure your colleagues get the latest version without bugs, please share the <b>Official QGIS Plugin Link</b> or <b>GitHub Link</b> instead of raw ZIP files.<br><br>"
+            "<i>Biar rekan kerjamu selalu dapat versi terbaru yang bebas error, yuk biasakan share link resmi QGIS/GitHub, bukan bagi-bagi file ZIP mentahan 😉</i>"
             "</span>"
             "</div><br>"
             
