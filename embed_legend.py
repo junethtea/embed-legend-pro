@@ -3,10 +3,10 @@
 
 # ==============================================================================
 #  PLUGIN      : Embed Legend
-#  VERSION     : 6.9.0
+#  VERSION     : 6.9.1
 #  AUTHOR      : Jujun Junaedi
 #  EMAIL       : jujun.junaedi@outlook.com
-#  COPYRIGHT   : (c) 2026 by Jujun Junaedi
+#  COPYRIGHT   : (c) 2025 by Jujun Junaedi
 #  LICENSE     : GPL-2.0-or-later
 #  DESCRIPTION : Interactive Floating Legend & Advanced Thematic Export Tool
 # ==============================================================================
@@ -562,7 +562,7 @@ class EmbedLegendPlugin:
             
             "<b>☕ Support & Donate:</b><br>"
             "If this tool saves you hours of work, consider buying me a coffee!<br>"
-            "• <b>Global:</b> Buy Me a Coffee / PayPal (junethtea)<br>"
+            "• <b>Global:</b> Buy Me a Coffee (buymeacoffee.com/juneth)<br>"
             "• <b>Indonesia:</b> OVO / GoPay (081510027058)<br><br>"
             
             "<div style='background-color: #e8f4f8; padding: 10px; border-radius: 5px; text-align: center; color: #2d98da; border: 1px solid #bdc3c7;'>"
