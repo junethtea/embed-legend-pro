@@ -1,0 +1,26 @@
+[general]
+name=Embed Legend
+qgisMinimumVersion=3.0
+description=Interactive Floating Legend & Advanced KMZ/MIF Thematic Export Tool for RF Engineers and GIS Analysts.
+version=6.9.0
+author=Jujun Junaedi
+email=jujun.junaedi@outlook.com
+about=Embed Legend is the ultimate productivity booster for QGIS users, particularly in the Telecommunications and GIS sectors. It creates a live, draggable floating legend panel that stays on your map canvas. Key features include:
+    * Interactive visibility toggle (click to hide/show layers with a strikethrough effect).
+    * Multi-layer stacking with clear separators.
+    * Real-time feature counts and percentage (%) statistics.
+    * Professional KMZ (Google Earth) export with auto-embedded legend images on the screen.
+    * Smart Labeling: Automatically detects SiteID columns for Sectoral/Polygon layers, keeping Drive Test (Points) and Grid geometries clean without text clutter.
+    * Direct MapInfo MIF export with hardcoded thematics.
+    Export thousands of complex RF data points (Drive Test, Covmo/MR/MDT, Gcell) cleanly and efficiently in less than a minute.
+tracker=https://github.com/junethtea/embed-legend-pro/issues
+repository=https://github.com/junethtea/embed-legend-pro
+tags=legend, export, google earth, kmz, kml, rf, telecommunications, drive test, mapinfo, mif, thematic
+homepage=https://github.com/junethtea/embed-legend-pro
+category=Vector
+icon=icon.png
+experimental=False
+changelog=
+    6.9.0 - Multi-layer stacking support, strict smart labeling for KMZ, and clean geometry exports.
+    6.8.0 - Transitioned to open-source (Free/Unlocked version). Improved export performance.
+	
