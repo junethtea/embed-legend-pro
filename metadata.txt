@@ -1,10 +1,11 @@
 [general]
 name=Embed Legend
-qgisMinimumVersion=3.0
+qgisMinimumVersion=3.16
 description=Interactive Floating Legend & Advanced KMZ/MIF Thematic Export Tool for RF Engineers and GIS Analysts.
 version=6.9.0
 author=Jujun Junaedi
 email=jujun.junaedi@outlook.com
+license=GPL-2.0-or-later
 about=Embed Legend is the ultimate productivity booster for QGIS users, particularly in the Telecommunications and GIS sectors. It creates a live, draggable floating legend panel that stays on your map canvas. Key features include:
     * Interactive visibility toggle (click to hide/show layers with a strikethrough effect).
     * Multi-layer stacking with clear separators.
@@ -23,4 +24,3 @@ experimental=False
 changelog=
     6.9.0 - Multi-layer stacking support, strict smart labeling for KMZ, and clean geometry exports.
     6.8.0 - Transitioned to open-source (Free/Unlocked version). Improved export performance.
-	

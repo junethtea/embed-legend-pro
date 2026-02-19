@@ -2,11 +2,12 @@
 # -*- coding: utf-8 -*-
 
 # ==============================================================================
-#  PLUGIN      : Embed Legend Pro
+#  PLUGIN      : Embed Legend
 #  VERSION     : 6.9.0
 #  AUTHOR      : Jujun Junaedi
 #  EMAIL       : jujun.junaedi@outlook.com
-#  COPYRIGHT   : (c) 2025 by Jujun Junaedi
+#  COPYRIGHT   : (c) 2026 by Jujun Junaedi
+#  LICENSE     : GPL-2.0-or-later
 #  DESCRIPTION : Interactive Floating Legend & Advanced Thematic Export Tool
 # ==============================================================================
 
